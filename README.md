@@ -68,7 +68,7 @@ motto: Constantly exploring new technologies
 
 ## 🛡️ Cybersecurity Toolkit
 
-**Tools:** Kali Linux · Burp Suite · Nmap · Wireshark
+**Tools:** Kali Linux · Burp Suite · Nmap · Wireshark<br>
 **Skills:** OWASP Top 10 · web exploitation · recon & enumeration · traffic analysis · Linux privesc · crypto & forensics basics
 
 <div align="center">
