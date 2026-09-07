@@ -81,7 +81,7 @@ motto: Constantly exploring new technologies
 
 <div align="center">
 
-<img height="165" src="https://YOUR-VERCEL-APP.vercel.app/api?username=dvshpat&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=39ff14&text_color=9be9a8&icon_color=00ff9f" alt="stats" />
+<img height="165" src="https://YOUR-VERCEL-APP.vercel.app/api?username=dvshpat&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&bg_color=0d0d0d&title_color=ffb000&text_color=ffcf70&icon_color=ffb000" alt="stats" />
 <img height="165" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=dvshpat&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39ff14&text_color=9be9a8" alt="top langs" />
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=dvshpat&hide_border=true&background=0d1117&stroke=00ff9f&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=9be9a8&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" alt="streak" />
