@@ -1,10 +1,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Devansh%20Pateriya&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20Full-Stack%20Web%20Development&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2f24,100:00ff9f&height=200&section=header&text=%24%20whoami%3A%20Devansh%20Pateriya&fontColor=39ff14&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20Full-Stack%20Web%20Development&descAlignY=58&descSize=18" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Tech+enthusiast+%F0%9F%9A%80;Cybersecurity+%26+Full-Stack+Developer;Hackathons+%2B+CTF+player;Always+exploring+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&lines=%3E+initializing+shell...;Cybersecurity+%26+Full-Stack+Developer;Hackathons+%2B+CTF+player;%24+sudo+learn+--always" alt="Typing SVG" />
 </a>
 
 </div>
@@ -81,12 +81,12 @@ motto: Constantly exploring new technologies
 
 <div align="center">
 
-<img height="165" src="https://YOUR-VERCEL-APP.vercel.app/api?username=dvshpat&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
-<img height="165" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=dvshpat&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
+<img height="165" src="https://YOUR-VERCEL-APP.vercel.app/api?username=dvshpat&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=39ff14&text_color=9be9a8&icon_color=00ff9f" alt="stats" />
+<img height="165" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=dvshpat&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39ff14&text_color=9be9a8" alt="top langs" />
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=dvshpat&hide_border=true&theme=tokyonight" alt="streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=dvshpat&hide_border=true&background=0d1117&stroke=00ff9f&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=9be9a8&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" alt="streak" />
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=dvshpat&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true&area=true" alt="activity graph" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=dvshpat&bg_color=0d1117&color=39ff14&line=00ff9f&point=ffffff&hide_border=true&area=true" alt="activity graph" />
 
 </div>
 
@@ -96,6 +96,6 @@ motto: Constantly exploring new technologies
 
   <i>⭐ From ideas to exploits — always building, always learning.</i>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:0f2f24,100:0d1117&height=120&section=footer&text=exit%200&fontColor=39ff14&fontSize=20&fontAlignY=70" alt="footer"/>
 
 </div>
