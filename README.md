@@ -1,8 +1,3 @@
-<!--
-  GitHub profile README for @dvshpat
-  → Create a repo named exactly "dvshpat", add this file as README.md, and it shows on your profile.
-  → Replace every <PLACEHOLDER> below (LinkedIn URL, portfolio URL, email if you want it public).
--->
 
 <div align="center">
 
@@ -73,20 +68,12 @@ motto: Constantly exploring new technologies
 
 ## 🛡️ Cybersecurity Toolkit
 
-
-| Area | Tools / Skills |
-|------|----------------|
-| 🐧 Operating Systems | Linux, Kali Linux |
-| 🕸️ Web Security | Burp Suite, OWASP Top 10, request tampering |
-| 🔍 Recon & Scanning | Nmap, network enumeration |
-| 📡 Traffic Analysis | Wireshark, packet inspection |
-| 🚩 CTF Categories | Web exploitation, Linux privesc, crypto basics, forensics |
+**Tools:** Kali Linux · Burp Suite · Nmap · Wireshark
+**Skills:** OWASP Top 10 · web exploitation · recon & enumeration · traffic analysis · Linux privesc · crypto & forensics basics
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux,bash,debian,ubuntu&perline=5" alt="security tools" />
 </div>
-
-**Learning / next up:** 
 
 ---
 
@@ -94,10 +81,10 @@ motto: Constantly exploring new technologies
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dvshpat&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvshpat&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
+<img height="165" src="https://YOUR-VERCEL-APP.vercel.app/api?username=dvshpat&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
+<img height="165" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=dvshpat&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dvshpat&hide_border=true&theme=tokyonight" alt="streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=dvshpat&hide_border=true&theme=tokyonight" alt="streak" />
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=dvshpat&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true&area=true" alt="activity graph" />
 
